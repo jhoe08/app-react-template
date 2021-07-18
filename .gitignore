@@ -1,0 +1,9 @@
+# ignore
+node_modules/
+dist/
+
+# ignore cache
+.cache/
+
+# ignore all logs
+*.log
